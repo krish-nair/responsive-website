@@ -1,0 +1,22 @@
+/*Google font*/
+@import url("https://fonts.googleapis.com/css?family=Lato|Lobster|Patua+One|Rubik&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header,
+section {
+  overflow: hidden;
+}
+
+:root {
+  --Lato-font: "Lato", sans-serif;
+  --Rubik: "Rubik", sans-serif;
+  --Patua: "Patua One", cursive;
+  --Lobster: "Lobster", cursive;
+  --light-black: #2e2c2caf;
+  --bg-gradient: 
+}
