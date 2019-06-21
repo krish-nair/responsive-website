@@ -18,5 +18,17 @@ section {
   --Patua: "Patua One", cursive;
   --Lobster: "Lobster", cursive;
   --light-black: #2e2c2caf;
-  --bg-gradient: 
+  --bg-gradient: linear-gradient(to bottom, #dd2476, #ff512f);
+  --light-grey: rgba(255, 255, 255, 0);
+}
+
+header a {
+  font-family: var(--Lato-font);
+  font-size: 0.9em;
+  color: whitesmoke;
+}
+
+header {
+  background: #dd2476;
+  background: var(--bg-gradient);
 }
